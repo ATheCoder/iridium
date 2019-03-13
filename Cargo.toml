@@ -1,0 +1,7 @@
+[package]
+name = "iridium"
+version = "0.1.0"
+authors = ["athecoder"]
+edition = "2018"
+
+[dependencies]
